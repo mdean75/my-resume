@@ -1,4 +1,6 @@
+<p align="center">
 # Michael DeAngelo
+</p>
 ### 11 Betsy's Flag Ct,
 ### <p style="text-align: center;">O'Fallon, MO  63366</p>
 -----------------------
