@@ -17,3 +17,19 @@
 | HTML/CSS |  | FileZilla |
 | Bootstrap |  | Adobe Acrobat |
 |  |  | Powerpoint |
+
+### Project Experience
+***
+
+### Work Experience
+***
+
+### Education
+***
+
+#### Courseraa Web Applications for Everyone, January 2018
+ * Online courses in PHP offered by University of Michigan
+
+#### University of Maryland University College, Adelphi MD, current 
+##### _Bachelor of Science, Computer Science, current GPA 3.8_
+ * Relevant coursework: Java I & II, Calculus, Introduction to Computer Algorithms
