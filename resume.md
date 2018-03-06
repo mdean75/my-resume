@@ -8,7 +8,7 @@
 ***
 
 
-| Programming languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Operationg Systems: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Software: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| ------------- | ------------- | ------------- |
-| Java  | Linux  | Intellij  |
-| PHP  | Windows  | Content Cell  |
+ Programming languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Operationg Systems: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Software: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+ ------------- | ------------- | ------------- 
+ Java  | Linux  | Intellij  
+ PHP  | Windows  | Content Cell  
