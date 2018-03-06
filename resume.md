@@ -8,7 +8,11 @@
 ***
 
 
- Programming languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Operationg Systems: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Software: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
- ------------- | ------------- | ------------- 
- Java  | Linux  | Intellij  
- PHP  | Windows  | Content Cell  
+| Programming languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Operationg Systems: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Software: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ------------- | ------------- | ------------- |
+| Java  | Linux  | Intellij  |
+| PHP  | Windows  | MySQL Workbench |
+| MySQL | Synology | Sublime Text |
+| HTML/CSS |  | FileZilla |
+| Bootstrap |  | Adobe Acrobat |
+|  |  | Powerpoint |
