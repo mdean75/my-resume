@@ -25,6 +25,10 @@
 ### Project Experience
 ***
 
+#### NJCAD Overtime Database
+##### Sole Software Designer and Developer &bull; 2016 &mdash; Present
+Developed web application for overtime tracking and shift reporting for ambulance district utilizing PHP and MySQL with bootstrap library and fpdf and PHPMailer packages. Improved communication through auto generating and emailing the overtime list in pdf format, and providing shift logging feature with automatic emailing for duty officers.
+
 &nbsp;
 ### Work Experience
 ***
