@@ -88,4 +88,17 @@ Began at entry level position through hard work and high initiative undertook pr
  * Was primary Computer Operations point of contact to develop process for handling production of new customer statements
 
 
+&nbsp;
+### Recognition
+***
 
+#### Dean's List
+##### University of Maryland University College &bull; 2017
+
+&nbsp;
+### Associations
+***
+
+#### National Society of Collegiate Scholars
+##### Student member &bull; 2018 &mdash; Present
+Honor society at University of Maryland University College for top academic students.
