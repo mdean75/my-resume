@@ -7,6 +7,7 @@
 
 ***
 
+&nbsp;
 ### Skills
 ***
 
@@ -19,13 +20,16 @@
 #### Software:
   Intellij, MySQL Workbench, Sublime Text, FileZilla
 
-
+    
+&nbsp;
 ### Project Experience
 ***
 
+&nbsp;
 ### Work Experience
 ***
 
+&nbsp;
 ### Education
 ***
 
