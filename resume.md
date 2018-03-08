@@ -37,9 +37,21 @@ Developed web application for overtime tracking and shift reporting for ambulanc
 ### Education
 ***
 
-#### Courseraa Web Applications for Everyone, January 2018
- * Online courses in PHP offered by University of Michigan
+#### University of Maryland University College
+##### Bachelor's Degree, Computer Science (IN PROGRESS) &bull; Expected completion 2020
+ * Current GPA 3.8
+ * Dean's list
 
-#### University of Maryland University College, Adelphi MD, current 
-##### _Bachelor of Science, Computer Science, current GPA 3.8_
- * Relevant coursework: Java I & II, Calculus, Introduction to Computer Algorithms
+Coursework included Java I & II, Calculus, Computer Algorithms
+
+### University of Michigan on Courseraa
+#### Coursera Web Applications for Everyone, January 2018
+ * [Building Web Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/XFL529WXZLZB)
+ * [Introduction to Structured Query Language](https://www.coursera.org/account/accomplishments/certificate/L9ZB2LVPAUTZ)
+ * [Building Database Applications](https://www.coursera.org/account/accomplishments/certificate/23EZCTPQXWBL)
+
+Series of Coursera web-based courses on building PHP web applications
+
+#### Sanford Brown College
+##### Associates Degree, Computer Programming and Business Mgmt &bull; 1993 &mdash; 1995
+
