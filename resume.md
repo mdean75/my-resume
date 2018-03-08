@@ -5,20 +5,20 @@
 ***
 &nbsp; &nbsp; **[deangelomp@gmail.com](mailto:deangelomp@gmail.com)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **(618) 410-3719** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; **[https://github.com/mdean75/](https://github.com/mdean75/)** &nbsp; &nbsp; &nbsp;
 
-
+***
 
 ### Skills
 ***
 
+#### Programming Languages:
+  Java, PHP, MySQL, HTML/CSS, Bootstrap
 
-| Programming languages:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Operating Systems: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Software: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| ------------- | ------------- | ------------- |
-| Java  | Linux  | Intellij  |
-| PHP  | Windows  | MySQL Workbench |
-| MySQL | Synology | Sublime Text |
-| HTML/CSS |  | FileZilla |
-| Bootstrap |  | Adobe Acrobat |
-|  |  | Powerpoint |
+#### Operating Systems:
+  Linux, Windows, Synology
+
+#### Software:
+  Intellij, MySQL Workbench, Sublime Text, FileZilla
+
 
 ### Project Experience
 ***
