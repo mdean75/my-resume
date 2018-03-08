@@ -3,9 +3,9 @@
 >### O'Fallon, MO  63366
 
 ***
-&nbsp; &nbsp; deangelomp@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (618)410-3719 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; https://github.com/mdean75/ &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; **[deangelomp@gmail.com](mailto:deangelomp@gmail.com)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **(618) 410-3719** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; **[https://github.com/mdean75/](https://github.com/mdean75/)** &nbsp; &nbsp; &nbsp;
 
-***
+
 
 ### Skills
 ***
