@@ -3,7 +3,7 @@
 >### O'Fallon, MO  63366
 
 ***
-&nbsp; &nbsp; **[deangelomp@gmail.com](mailto:deangelomp@gmail.com)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **(618) 410-3719** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; **[https://github.com/mdean75/](https://github.com/mdean75/)** &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; **[deangelomp@gmail.com](mailto:deangelomp@gmail.com)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **(618) 410-3719** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; **[https://github.com/mdean75/](https://github.com/mdean75/){:target="_blank"}** &nbsp; &nbsp; &nbsp;
 
 ***
 
@@ -42,9 +42,12 @@ Coursework included Java I & II, Calculus, Computer Algorithms
 
 ### University of Michigan on Courseraa
 #### Coursera Web Applications for Everyone, January 2018
- * [Building Web Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/XFL529WXZLZB)
- * [Introduction to Structured Query Language](https://www.coursera.org/account/accomplishments/certificate/L9ZB2LVPAUTZ)
- * [Building Database Applications](https://www.coursera.org/account/accomplishments/certificate/23EZCTPQXWBL)
+ * [Building Web Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/XFL529WXZLZB){:target="_blank"}
+#### Student member &bull; 2018 &mdash; Present
+ * [Introduction to Structured Query Language](https://www.coursera.org/account/accomplishments/certificate/L9ZB2LVPAUTZ){:target="_blank"}
+#### Student member &bull; 2018 &mdash; Present
+ * [Building Database Applications](https://www.coursera.org/account/accomplishments/certificate/23EZCTPQXWBL){:target="_blank"}
+#### Student member &bull; 2018 &mdash; Present
 
 Series of Coursera web-based courses on building PHP web applications
 
