@@ -8,29 +8,29 @@
 ***
 
 &nbsp;
-### Skills
+## Skills
 ***
 
-#### Programming Languages:
+### Programming Languages:
   Java, PHP, MySQL, HTML/CSS, Bootstrap
 
-#### Operating Systems:
+### Operating Systems:
   Linux, Windows, Synology
 
-#### Software:
+### Software:
   Intellij, MySQL Workbench, Sublime Text, FileZilla
 
     
 &nbsp;
-### Project Experience
+## Project Experience
 ***
 
-#### NJCAD Overtime Database
-##### Sole Software Designer and Developer &bull; 2016 &mdash; Present
+### NJCAD Overtime Database
+#### Sole Software Designer and Developer &bull; 2016 &mdash; Present
 Developed web application for overtime tracking and shift reporting for ambulance district utilizing PHP and MySQL with bootstrap library and fpdf and PHPMailer packages. Improved communication through auto generating and emailing the overtime list in pdf format, and providing shift logging feature with automatic emailing for duty officers.
 
 &nbsp;
-### Education
+## Education
 ***
 
 ### University of Maryland University College
@@ -58,7 +58,7 @@ Series of Coursera web-based courses on building PHP web applications
  * Ranken Technical College, Industrial Electricity and Electronics, 2002 &mdash; 2004
 
 &nbsp;
-### Work Experience
+## Work Experience
 ***
 
 ### North Jefferson County Ambulance District
@@ -89,16 +89,16 @@ Began at entry level position through hard work and high initiative undertook pr
 
 
 &nbsp;
-### Recognition
+## Recognition
 ***
 
-#### Dean's List
-##### University of Maryland University College &bull; 2017
+### Dean's List
+#### University of Maryland University College &bull; 2017
 
 &nbsp;
-### Associations
+## Associations
 ***
 
-#### National Society of Collegiate Scholars
-##### Student member &bull; 2018 &mdash; Present
+### [National Society of Collegiate Scholars](http://www.nscs.org/){:target="_blank"}
+#### Student member &bull; 2018 &mdash; Present
 Honor society at University of Maryland University College for top academic students.
